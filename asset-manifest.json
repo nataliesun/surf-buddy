@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/surf-buddy/static/css/main.b4b8ed13.chunk.css",
+    "main.js": "/surf-buddy/static/js/main.a42ff7a7.chunk.js",
+    "main.js.map": "/surf-buddy/static/js/main.a42ff7a7.chunk.js.map",
+    "runtime~main.js": "/surf-buddy/static/js/runtime~main.3272d286.js",
+    "runtime~main.js.map": "/surf-buddy/static/js/runtime~main.3272d286.js.map",
+    "static/js/2.69124a38.chunk.js": "/surf-buddy/static/js/2.69124a38.chunk.js",
+    "static/js/2.69124a38.chunk.js.map": "/surf-buddy/static/js/2.69124a38.chunk.js.map",
+    "index.html": "/surf-buddy/index.html",
+    "precache-manifest.e3d0834d87020498e36dbf7793587e85.js": "/surf-buddy/precache-manifest.e3d0834d87020498e36dbf7793587e85.js",
+    "service-worker.js": "/surf-buddy/service-worker.js",
+    "static/css/main.b4b8ed13.chunk.css.map": "/surf-buddy/static/css/main.b4b8ed13.chunk.css.map",
+    "static/media/WelcomePage.css": "/surf-buddy/static/media/welcome-hero.7f8035af.jpg"
+  }
+}
