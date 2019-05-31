@@ -1,0 +1,18 @@
+.WelcomePage{
+    height: 100vh;
+    background-image: url('./welcome-hero.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.WelcomePage .content {
+    margin-top: -20%;
+}
+
+.WelcomePage h2 {
+    font-size: 42px;
+}
+
